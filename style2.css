@@ -175,7 +175,7 @@ footer {
   position: absolute;
   top: 0;
   z-index: -1;
-  background: url(../bg_footer2.png) no-repeat center/cover;
+  background: url(./bg_footer2.png) no-repeat center/cover;
   clip-path: polygon(0% 100%, 300px 0%, 100% 0%, 100% 100%);
 }
 

@@ -143,7 +143,7 @@ footer {
   height: 212px;
 }
 
-.card {
+.card1 {
   background-color: #2a79e0;
   width: 180px;
   height: 49px;
@@ -152,7 +152,7 @@ footer {
   line-height: 40px;
 }
 
-.card a {
+.card1 a {
   font-weight: 600;
   font-size: 20px;
   color: #ffff;
@@ -160,7 +160,7 @@ footer {
   transition: 0.5s;
 }
 
-.card a:hover {
+.card1 a:hover {
   color: #93b4df;
 }
 
@@ -175,7 +175,7 @@ footer {
   position: absolute;
   top: 0;
   z-index: -1;
-  background: url(../bg_footer1.jpg) no-repeat center/cover;
+  background: url(./bg_footer1.jpg) no-repeat center/cover;
   clip-path: polygon(0% 100%, 300px 0%, 100% 0%, 100% 100%);
 }
 
